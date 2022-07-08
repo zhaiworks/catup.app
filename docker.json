@@ -1,0 +1,68 @@
+{
+  "data": {
+    "has_fail": false,
+    "result": [
+      {
+        "api": "SYNO.Docker.Container",
+        "data": {
+          "containers": [
+            {
+              "State": {
+                "Dead": false,
+                "Error": "",
+                "ExitCode": 0,
+                "FinishedAt": "2022-06-14T03:30:18.669540369Z",
+                "FinishedTs": 1655177418,
+                "OOMKilled": false,
+                "Paused": false,
+                "Pid": 0,
+                "Restarting": false,
+                "Running": false,
+                "StartedAt": "2022-06-14T03:30:17.073412843Z",
+                "StartedTs": 1655177417,
+                "Status": "exited"
+              },
+              "cmd": "/docker-entrypoint.sh nginx -g 'daemon off;'",
+              "created": 1654923360,
+              "enable_service_portal": false,
+              "exporting": false,
+              "finish_time": 1655177418,
+              "id": "a09e1a0473eeeb51b6adbec3adf7eadb044b10df305f33272153b6044a741e52",
+              "image": "nginx:alpine",
+              "is_ddsm": false,
+              "is_package": false,
+              "name": "nginx1",
+              "services": null,
+              "status": "stopped",
+              "up_status": "Exited (0) 3 weeks ago",
+              "up_time": 1655177417
+            }
+          ],
+          "limit": 1,
+          "offset": 0,
+          "total": 1
+        },
+        "method": "list",
+        "success": true,
+        "version": 1
+      },
+      {
+        "api": "SYNO.Docker.Container.Resource",
+        "data": {
+          "resources": [
+            {
+              "cpu": 0,
+              "memory": 0,
+              "memoryPercent": 0,
+              "name": "nginx1"
+            }
+          ]
+        },
+        "method": "get",
+        "success": true,
+        "version": 1
+      }
+    ]
+  },
+  "success": true
+}
