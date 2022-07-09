@@ -1,0 +1,1161 @@
+{
+    "data": {
+        "files": [
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 0,
+                        "group": "root",
+                        "uid": 0,
+                        "user": "root"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 0
+                    },
+                    "real_path": "/volume1/lab/.AppleDB",
+                    "size": 70,
+                    "time": {
+                        "atime": 1651820511,
+                        "crtime": 1601870711,
+                        "ctime": 1605439368,
+                        "mtime": 1602911349
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": ".AppleDB",
+                "path": "/lab/.AppleDB"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 0,
+                        "group": "root",
+                        "uid": 0,
+                        "user": "root"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 0
+                    },
+                    "real_path": "/volume1/lab/#recycle",
+                    "size": 926,
+                    "time": {
+                        "atime": 1651820510,
+                        "crtime": 1601870567,
+                        "ctime": 1652400634,
+                        "mtime": 1652400634
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "#recycle",
+                "path": "/lab/#recycle"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/2022",
+                    "size": 1022,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1647833204,
+                        "ctime": 1651389164,
+                        "mtime": 1651389164
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "2022",
+                "path": "/lab/2022"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Archive",
+                    "size": 2716,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602910556,
+                        "ctime": 1636508902,
+                        "mtime": 1626222709
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Archive",
+                "path": "/lab/Archive"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/books",
+                    "size": 698,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1626222684,
+                        "ctime": 1627796399,
+                        "mtime": 1627796399
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "books",
+                "path": "/lab/books"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/ESOP计划相关资料",
+                    "size": 974,
+                    "time": {
+                        "atime": 1656252740,
+                        "crtime": 1634015660,
+                        "ctime": 1634015662,
+                        "mtime": 1634015662
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "ESOP计划相关资料",
+                "path": "/lab/ESOP计划相关资料"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/ESOP计划相关资料 2",
+                    "size": 974,
+                    "time": {
+                        "atime": 1655882258,
+                        "crtime": 1639970934,
+                        "ctime": 1639970935,
+                        "mtime": 1639970935
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "ESOP计划相关资料 2",
+                "path": "/lab/ESOP计划相关资料 2"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Home",
+                    "size": 202,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602910557,
+                        "ctime": 1652354034,
+                        "mtime": 1652354034
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Home",
+                "path": "/lab/Home"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Juzhen",
+                    "size": 6972,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602909138,
+                        "ctime": 1647233940,
+                        "mtime": 1647233940
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Juzhen",
+                "path": "/lab/Juzhen"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Keynote 讲演",
+                    "size": 1146,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602909022,
+                        "ctime": 1636508902,
+                        "mtime": 1602894960
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Keynote 讲演",
+                "path": "/lab/Keynote 讲演"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/MindNode",
+                    "size": 1788,
+                    "time": {
+                        "atime": 1655899374,
+                        "crtime": 1602908701,
+                        "ctime": 1636508902,
+                        "mtime": 1596794529
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "MindNode",
+                "path": "/lab/MindNode"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/MSDoc",
+                    "size": 5010,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602908695,
+                        "ctime": 1652938212,
+                        "mtime": 1652938212
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "MSDoc",
+                "path": "/lab/MSDoc"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/new",
+                    "size": 36,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1650378164,
+                        "ctime": 1651203765,
+                        "mtime": 1651203765
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "new",
+                "path": "/lab/new"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Numbers 表格",
+                    "size": 3732,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1602908686,
+                        "ctime": 1636508901,
+                        "mtime": 1598589802
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Numbers 表格",
+                "path": "/lab/Numbers 表格"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Pages 文稿",
+                    "size": 2838,
+                    "time": {
+                        "atime": 1651820511,
+                        "crtime": 1602908610,
+                        "ctime": 1636508901,
+                        "mtime": 1602893103
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Pages 文稿",
+                "path": "/lab/Pages 文稿"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/PWD",
+                    "size": 50,
+                    "time": {
+                        "atime": 1653037019,
+                        "crtime": 1653037018,
+                        "ctime": 1653037022,
+                        "mtime": 1653037022
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "PWD",
+                "path": "/lab/PWD"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Wechat",
+                    "size": 156,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1619313623,
+                        "ctime": 1635584928,
+                        "mtime": 1635584928
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Wechat",
+                "path": "/lab/Wechat"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Workspace",
+                    "size": 2268,
+                    "time": {
+                        "atime": 1651820511,
+                        "crtime": 1602908550,
+                        "ctime": 1647822345,
+                        "mtime": 1647822345
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Workspace",
+                "path": "/lab/Workspace"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/yahoo",
+                    "size": 0,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1629898249,
+                        "ctime": 1629898314,
+                        "mtime": 1629898314
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "yahoo",
+                "path": "/lab/yahoo"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/Zulin",
+                    "size": 380,
+                    "time": {
+                        "atime": 1651820511,
+                        "crtime": 1602908543,
+                        "ctime": 1636508901,
+                        "mtime": 1631065397
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "Zulin",
+                "path": "/lab/Zulin"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/文章",
+                    "size": 634,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1626922740,
+                        "ctime": 1629440288,
+                        "mtime": 1629440288
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "文章",
+                "path": "/lab/文章"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/新建文件夹",
+                    "size": 0,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1633747139,
+                        "ctime": 1633747139,
+                        "mtime": 1633747135
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "新建文件夹",
+                "path": "/lab/新建文件夹"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/方案",
+                    "size": 2026,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1627011786,
+                        "ctime": 1635294073,
+                        "mtime": 1635294073
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "方案",
+                "path": "/lab/方案"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/签字文件",
+                    "size": 120,
+                    "time": {
+                        "atime": 1655882254,
+                        "crtime": 1655685221,
+                        "ctime": 1655685224,
+                        "mtime": 1655685224
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "签字文件",
+                "path": "/lab/签字文件"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/简历",
+                    "size": 56,
+                    "time": {
+                        "atime": 1651820512,
+                        "crtime": 1612841874,
+                        "ctime": 1612841878,
+                        "mtime": 1612841878
+                    },
+                    "type": ""
+                },
+                "isdir": true,
+                "name": "简历",
+                "path": "/lab/简历"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/劳动合同补充协议-2203(1).docx",
+                    "size": 20741,
+                    "time": {
+                        "atime": 1647315237,
+                        "crtime": 1647315237,
+                        "ctime": 1647315498,
+                        "mtime": 1647315237
+                    },
+                    "type": "DOCX"
+                },
+                "isdir": false,
+                "name": "劳动合同补充协议-2203(1).docx",
+                "path": "/lab/劳动合同补充协议-2203(1).docx"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/签字文件.zip",
+                    "size": 305519,
+                    "time": {
+                        "atime": 1655685218,
+                        "crtime": 1655682934,
+                        "ctime": 1655685218,
+                        "mtime": 1655682934
+                    },
+                    "type": "ZIP"
+                },
+                "isdir": false,
+                "name": "签字文件.zip",
+                "path": "/lab/签字文件.zip"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/ESOP计划相关资料.zip",
+                    "size": 314265,
+                    "time": {
+                        "atime": 1634015652,
+                        "crtime": 1634015658,
+                        "ctime": 1634015658,
+                        "mtime": 1634015652
+                    },
+                    "type": "ZIP"
+                },
+                "isdir": false,
+                "name": "ESOP计划相关资料.zip",
+                "path": "/lab/ESOP计划相关资料.zip"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/968a48b1f17547a0b99424911d9da41e_H264_mp4_500K.mp4",
+                    "size": 17286903,
+                    "time": {
+                        "atime": 1632464982,
+                        "crtime": 1634047020,
+                        "ctime": 1636508902,
+                        "mtime": 1632464982
+                    },
+                    "type": "MP4"
+                },
+                "isdir": false,
+                "name": "968a48b1f17547a0b99424911d9da41e_H264_mp4_500K.mp4",
+                "path": "/lab/968a48b1f17547a0b99424911d9da41e_H264_mp4_500K.mp4"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 711
+                    },
+                    "real_path": "/volume1/lab/20210925_ 矩阵数据科技介绍-车规级无人车量产能力.key",
+                    "size": 26289290,
+                    "time": {
+                        "atime": 1635221909,
+                        "crtime": 1635217155,
+                        "ctime": 1636508902,
+                        "mtime": 1635221909
+                    },
+                    "type": "KEY"
+                },
+                "isdir": false,
+                "name": "20210925_ 矩阵数据科技介绍-车规级无人车量产能力.key",
+                "path": "/lab/20210925_ 矩阵数据科技介绍-车规级无人车量产能力.key"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/meeting_05.mp4",
+                    "size": 50218641,
+                    "time": {
+                        "atime": 1635582810,
+                        "crtime": 1635582689,
+                        "ctime": 1635582689,
+                        "mtime": 1635582532
+                    },
+                    "type": "MP4"
+                },
+                "isdir": false,
+                "name": "meeting_05.mp4",
+                "path": "/lab/meeting_05.mp4"
+            },
+            {
+                "additional": {
+                    "description": {},
+                    "indexed": true,
+                    "mount_point_type": "",
+                    "owner": {
+                        "gid": 100,
+                        "group": "users",
+                        "uid": 1026,
+                        "user": "zulin"
+                    },
+                    "perm": {
+                        "acl": {
+                            "append": true,
+                            "del": true,
+                            "exec": true,
+                            "read": true,
+                            "write": true
+                        },
+                        "is_acl_mode": true,
+                        "posix": 700
+                    },
+                    "real_path": "/volume1/lab/矩阵数据.mp4",
+                    "size": 286627248,
+                    "time": {
+                        "atime": 1637404479,
+                        "crtime": 1635743399,
+                        "ctime": 1635743399,
+                        "mtime": 1635743306
+                    },
+                    "type": "MP4"
+                },
+                "isdir": false,
+                "name": "矩阵数据.mp4",
+                "path": "/lab/矩阵数据.mp4"
+            }
+        ],
+        "offset": 0,
+        "total": 32
+    },
+    "success": true
+}
