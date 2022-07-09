@@ -53,7 +53,10 @@
       },
       "HostConfig": {
         "AutoRemove": false,
-        "Binds": [],
+        "Binds": [
+          "/volume1/docker/NGINX:/www:rw",
+          "/volume1/lab/ESOP计划相关资料/Winsense ESOP Option Agreement and Notices 20200913 updatesent.doc:/bb:rw"
+        ],
         "BlkioDeviceReadBps": null,
         "BlkioDeviceReadIOps": null,
         "BlkioDeviceWriteBps": null,
@@ -76,7 +79,7 @@
         "CpuQuota": 0,
         "CpuRealtimePeriod": 0,
         "CpuRealtimeRuntime": 0,
-        "CpuShares": 50,
+        "CpuShares": 90,
         "CpusetCpus": "",
         "CpusetMems": "",
         "DeviceCgroupRules": null,
@@ -116,9 +119,9 @@
           "/proc/scsi",
           "/sys/firmware"
         ],
-        "Memory": 0,
+        "Memory": 4294967296,
         "MemoryReservation": 0,
-        "MemorySwap": 0,
+        "MemorySwap": 8589934592,
         "MemorySwappiness": null,
         "NanoCpus": 0,
         "NetworkMode": "bridge",
@@ -146,7 +149,7 @@
         "ReadonlyRootfs": false,
         "RestartPolicy": {
           "MaximumRetryCount": 0,
-          "Name": ""
+          "Name": "no"
         },
         "Runtime": "runc",
         "SecurityOpt": null,
@@ -163,7 +166,24 @@
       "Image": "sha256:b1c3acb28882519cf6d3a4d7fe2b21d0ae20bde9cfd2c08a7de057f8cfccff15",
       "LogPath": "/volume1/@docker/containers/a09e1a0473eeeb51b6adbec3adf7eadb044b10df305f33272153b6044a741e52/log.db",
       "MountLabel": "",
-      "Mounts": [],
+      "Mounts": [
+        {
+          "Destination": "/www",
+          "Mode": "rw",
+          "Propagation": "rprivate",
+          "RW": true,
+          "Source": "/volume1/docker/NGINX",
+          "Type": "bind"
+        },
+        {
+          "Destination": "/bb",
+          "Mode": "rw",
+          "Propagation": "rprivate",
+          "RW": true,
+          "Source": "/volume1/lab/ESOP计划相关资料/Winsense ESOP Option Agreement and Notices 20200913 updatesent.doc",
+          "Type": "bind"
+        }
+      ],
       "Name": "/nginx1",
       "NetworkSettings": {
         "Bridge": "",
@@ -232,7 +252,7 @@
       "CapAdd": [],
       "CapDrop": [],
       "cmd": "nginx -g daemon\\ off\\;",
-      "cpu_priority": 50,
+      "cpu_priority": 90,
       "enable_publish_all_ports": false,
       "enable_restart_policy": false,
       "enable_service_portal": null,
@@ -261,7 +281,7 @@
       "is_ddsm": false,
       "is_package": false,
       "links": [],
-      "memory_limit": 0,
+      "memory_limit": 4294967296,
       "name": "nginx1",
       "network": [
         {
@@ -285,7 +305,18 @@
         "web_page_url": ""
       },
       "use_host_network": false,
-      "volume_bindings": []
+      "volume_bindings": [
+        {
+          "host_volume_file": "/docker/NGINX",
+          "mount_point": "/www",
+          "type": "rw"
+        },
+        {
+          "host_volume_file": "/lab/ESOP计划相关资料/Winsense ESOP Option Agreement and Notices 20200913 updatesent.doc",
+          "mount_point": "/bb",
+          "type": "rw"
+        }
+      ]
     }
   },
   "success": true
