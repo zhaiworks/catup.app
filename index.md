@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" src="https://github.com/zhaiworks/catup/raw/master/public/logo/catup.svg">
+  <img width="300px" src="https://catup.app/catup.svg">
 </p>
 
 # Catup - 懒猫搭搭，Docker应用一键搭
@@ -7,8 +7,6 @@ http://catup.app （setup your apps）
 
 Catup是一款Docker应用的搭建工具,和其他Docker工具不同,Catup是面向NAS/软路由等内网服务器玩家的需求,让Docker更简单更好玩,让更多人可以搭建出自己的服务器.
 
-[![Github Page Deploy](https://github.com/llinzzi/catup/actions/workflows/zhaiworks.yml/badge.svg)](https://github.com/llinzzi/flashsnail/actions/workflows/zhaiworks.yml)
-![Days](https://img.shields.io/static/v1?label=DAYS&message=30D&color=79aa95?style=for-the-badge)
 
 ## 功能
 ### 专业化 => 家用化
