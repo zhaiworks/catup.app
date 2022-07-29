@@ -1,9 +1,8 @@
 <p align="center">
   <img width="300px" src="https://catup.app/catup.svg">
+  <p>Catup - 懒猫搭搭</p>
 </p>
 
-
-# Catup - 懒猫搭搭.
 ## 轻松搭建私人服务器.
 
 http://catup.app （setup your apps）
@@ -25,9 +24,6 @@ http://catup.app （setup your apps）
 
 ### 为什么用懒猫搭搭
 服务器搭建是一件非常专业和复杂的工作, 前期需要消耗精力去学习,后期需要消耗精力, 懒猫搭搭是专门面向个人用户来搭建私人服务需求的一款懒人工具, 把复杂的搭建和维护工作交给懒猫搭搭. 用户只需要按找需求选择想要的服务即可.
-
-[![Github Page Deploy](https://github.com/llinzzi/catup/actions/workflows/zhaiworks.yml/badge.svg)](https://github.com/llinzzi/flashsnail/actions/workflows/zhaiworks.yml)
-![Days](https://img.shields.io/static/v1?label=DAYS&message=30D&color=79aa95?style=for-the-badge)
 
 ## 功能
 ### 专业化 => 家用化 ( 基础工具 )
