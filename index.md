@@ -2,14 +2,35 @@
   <img width="300px" src="https://catup.app/catup.svg">
 </p>
 
-# Catup - 懒猫搭搭，Docker应用一键搭
+
+# Catup - 懒猫搭搭.
+## 轻松搭建私人服务器.
+
 http://catup.app （setup your apps）
 
-Catup是一款Docker应用的搭建工具,和其他Docker工具不同,Catup是面向NAS/软路由等内网服务器玩家的需求,让Docker更简单更好玩,让更多人可以搭建出自己的服务器.
+随着Nas和高性能路由器的普及, 越来越多的用户有搭建私人服务器的需求,  Catup(懒猫搭搭)是一款面向这类用户的懒人工具, 让用户更轻松的搭建和管理自己的私人服务器.
 
+### 什么是私人服务器
+私人服务器不同于常见的公开服务器, 所有的程序和数据存储在用户自己的计算设备上. 常见的计算设备如
+- NAS
+- 高性能路由器
+- 电脑/笔记本
+- 电视盒子
+
+### 为什么要搭建私人服务器
+- 私人服务器更省钱, 比如照片存储服务\文档存储服务等, 存在私人服务器上成本更低.
+- 私人服务器更快速, 私人服务器访问速度可达千兆每秒, 相比其他服务器快百倍.
+- 私人服务器更私密, 敏感数据和照片存在自己的服务器可更好的保护自己的隐私, 拒绝隐私泄露.
+- 私人服务器可赚钱, 可以根据需求自行的搭建签到机器人或带宽存储共享等服务来实现资源的最大化使用.
+
+### 为什么用懒猫搭搭
+服务器搭建是一件非常专业和复杂的工作, 前期需要消耗精力去学习,后期需要消耗精力, 懒猫搭搭是专门面向个人用户来搭建私人服务需求的一款懒人工具, 把复杂的搭建和维护工作交给懒猫搭搭. 用户只需要按找需求选择想要的服务即可.
+
+[![Github Page Deploy](https://github.com/llinzzi/catup/actions/workflows/zhaiworks.yml/badge.svg)](https://github.com/llinzzi/flashsnail/actions/workflows/zhaiworks.yml)
+![Days](https://img.shields.io/static/v1?label=DAYS&message=30D&color=79aa95?style=for-the-badge)
 
 ## 功能
-### 专业化 => 家用化
+### 专业化 => 家用化 ( 基础工具 )
 - App lanucher
 - GoodUI
 - 服务器状态监测
@@ -19,12 +40,3 @@ Catup是一款Docker应用的搭建工具,和其他Docker工具不同,Catup是�
 - App社区UGC的一键配置
 ### 云服务增值
 - 配置文件云备份
-
-## 洞见
-随着NAS的普及,除了存储需求上涨外,NAS上安装服务应用的需求也在日益增多,Docker作为跨平台的服务器应用运行环境占绝对的市场.这带来了一些新的问题.
-- NAS内置Docker管理工具太专业,需要掌握IT技术.
-- 各大NAS内置Docker管理工具使用上的异给为应用的推广带来麻烦.
-- Applanucher,反向代理,动态域名等基本功能需要额外配置.
-- 应用的开发者和用户之间没有沟通渠道,没有正激励机制.
-- 应用没有推广渠道.
-- 还有更大量的Diy NAS及软路由都是Docker的主要需求.
