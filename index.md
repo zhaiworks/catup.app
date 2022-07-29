@@ -1,6 +1,6 @@
 <p align="center">
   <img width="300px" src="https://catup.app/catup.svg">
-  <p>Catup - 懒猫搭搭</p>
+  <h1>Catup - 懒猫搭搭</h1>
 </p>
 
 ## 轻松搭建私人服务器.
